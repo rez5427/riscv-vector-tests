@@ -20,7 +20,7 @@
   MODE = machine##
         ##Can be [machine], [virtual] or [user]; for more info, see https://github.com/riscv/riscv-test-env
         ##
-  VLEN = 256##
+  VLEN = 512##
         ##Can vary from [64] to [4096] (upper boundary is limited by Spike)
         ##
   XLEN = 64##
