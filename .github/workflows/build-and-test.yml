@@ -10,7 +10,7 @@ on:
 
 jobs:
   check:
-    runs-on: rez-OMEN-by-HP-Laptop-16-b1xxx
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
